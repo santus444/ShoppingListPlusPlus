@@ -1,7 +1,8 @@
 ShoppingList++
 ========
+This fork has been upaded with my changes
 
-ShoppingList++ is the companion Android app for the Udacity course [Firebase Essentials : Build a Shopping List App](https://www.udacity.com/course/firebase-essentials-for-android--ud009). 
+ShoppingList++ is the companion Android app for my Udacity course [Firebase Essentials : Build a Shopping List App](https://www.udacity.com/course/firebase-essentials-for-android--ud009). 
 
 The course covers everything you need to know to incorporate the [Firebase](https://www.firebase.com) into an Android App.
 
